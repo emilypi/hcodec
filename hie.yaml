@@ -1,0 +1,7 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "lib:hcodec"
+
+    - path: "test"
+      component: "hcodec:test:hcodec-test"
